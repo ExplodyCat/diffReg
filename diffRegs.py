@@ -1,4 +1,4 @@
-#  diffRegs.py - Copyright (C) 2013  504ENSICS Labs
+#  diffRegs.py - Copyright (C) 2013  Jerry Stormo
 #  Report on the key\value paths that exist in one registry hive and not the other
 #  Developers: Jerry Stormo
 #
